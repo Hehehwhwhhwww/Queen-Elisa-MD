@@ -112,7 +112,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© Queen Semi` // Add your caption ♥ 
+global.cap = `© Queen Semi`// add you captain ❤️
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
